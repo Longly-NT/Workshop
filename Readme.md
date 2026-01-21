@@ -1,4 +1,4 @@
-## Hey i'm gonna change this!
+## Hello friend!
 
--this is coming from 'dev-long'
+-I'm here
 -I'm adding this from 'feature - branch'
